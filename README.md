@@ -1,6 +1,6 @@
 ## ShivaInnovations
-#Um projeto desenvolvido por alunos da turma de T.I do SENAC
-###Turma T.I17T
+# Um projeto desenvolvido por alunos da turma de T.I do SENAC
+### Turma T.I17T
 
 Esse programa foi desenvolvido visando um Tótem de uma balada, para acelerar as filas das baladas nas compras de ingressos ou entradas.
 
