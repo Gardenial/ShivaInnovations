@@ -1,4 +1,9 @@
 ## ShivaInnovations
+<p align = "center">
+<img src="https://github.com/Gardenial/ShivaInnovations/blob/main/Shiva%20Innovations.png"
+</p>
+
+  
 # Um projeto desenvolvido por alunos da turma de T.I do SENAC
 ### Turma T.I17T
 
