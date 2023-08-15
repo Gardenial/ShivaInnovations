@@ -7,7 +7,7 @@ Esse programa foi desenvolvido visando um Tótem de uma balada, para acelerar as
 # Briefing
 
 **Cliente:** Casa de Show "Sonic Groove"
-![Desgin da casa de show]()
+![Desgin da casa de show](https://github.com/Gardenial/ShivaInnovations/blob/main/Sonic%20Groove.png)
 
 **Projeto:** Totem de Agendamentos Shiva Innovations
 
